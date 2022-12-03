@@ -105,11 +105,13 @@ main{
 .section-article > h3{
     font-size: 1.8em;
     margin: 0px;
+    text-transform: uppercase;
 }
 
 .section-article > p{
     font-size: 1.2em;
     margin: 10px;
+    text-transform: uppercase;
 }
 
 .section-img{
